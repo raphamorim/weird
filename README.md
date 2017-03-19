@@ -1,5 +1,7 @@
 # Weird
 
-A simple video enconder
+A simple video enconder in Elixir
 
 ![Diagram](images/diagram.png)
+
+```
